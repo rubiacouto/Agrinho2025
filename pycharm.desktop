@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=3.2
+Name=PyCharm
+Exec=/bin/pycharm.sh
+Icon=/opt/pycharm-community-2023.3.4/bin/pycharm.png
+Type=Application
+Comment=PyCharm
+Path=/bin/pycharm.sh
+Terminal=false
+StartupNotify=true
+Categories=Development;Education;
